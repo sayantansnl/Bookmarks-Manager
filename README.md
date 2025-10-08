@@ -17,7 +17,7 @@ A simple, stylish, and interactive web application to manage your bookmarks by c
 ## 🛠️ Technologies Used
 
 - **HTML5** – Semantic structure  
-- **CSS3** – Gradient background, responsive layout, animations  
+- **CSS3** – Gradient background, responsive layout 
 - **JavaScript (Vanilla)** – DOM manipulation, event handling, localStorage  
 
 ---
